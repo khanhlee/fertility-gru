@@ -15,6 +15,7 @@ Step 2: Put sequence IDs into training and list file:
 
 Step 3: Run Python code to train and evaluate model:
 - python3 oogenesis_gru.py
+
 The output will be shown after training process. "1" indicates that the sequence is fertility-related protein, otherwise, "0" indicates non-fertility protein.
 
 The authors could use single or multiple sequences in the list file. If the authors would like to predict the new sequence that does not have PSSM file, please use PSI-BLAST tool to generate PSSM profile first. After that, they only need to copy PSSM file into corresponding folder and run our code.
