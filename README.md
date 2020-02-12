@@ -22,4 +22,4 @@ The authors could use single or multiple sequences in the list file. If the auth
 
 # Citation
 Please cite our paper as follows:
->N.Q.K. Le. 2019. Fertility-GRU: Identifying Fertility-Related Proteins by Incorporating Deep-Gated Recurrent Units and Original Position-Specific Scoring Matrix Profiles. *J. Proteome Res.* 18, 9, 3503-351.
+>N.Q.K. Le. 2019. Fertility-GRU: Identifying Fertility-Related Proteins by Incorporating Deep-Gated Recurrent Units and Original Position-Specific Scoring Matrix Profiles. *J. Proteome Res.* 18, 9, 3503-351. doi: 10.1021/acs.jproteome.9b00411
