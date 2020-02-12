@@ -19,3 +19,7 @@ Step 3: Run Python code to train and evaluate model:
 The output will be shown after training process. "1" indicates that the sequence is fertility-related protein, otherwise, "0" indicates non-fertility protein.
 
 The authors could use single or multiple sequences in the list file. If the authors would like to predict the new sequence that does not have PSSM file, please use PSI-BLAST tool to generate PSSM profile first. After that, they only need to copy PSSM file into corresponding folder and run our code.
+
+# Citation
+Please cite our paper as follows:
+>N.Q.K. Le. 2019. Fertility-GRU: Identifying Fertility-Related Proteins by Incorporating Deep-Gated Recurrent Units and Original Position-Specific Scoring Matrix Profiles. *J. Proteome Res.* 18, 9, 3503-351.
